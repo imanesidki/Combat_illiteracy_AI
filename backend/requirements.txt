@@ -1,0 +1,28 @@
+# FastAPI and web server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# AI and ML dependencies
+google-generativeai==0.3.2
+openai-whisper==20240930
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Image processing
+Pillow==10.1.0
+
+# Audio processing dependencies
+ffmpeg-python==0.2.0
+
+# Utility dependencies
+python-dotenv==1.0.0
+aiofiles==23.2.1
+
+# Optional: For better performance
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Testing dependencies
+requests>=2.31.0 
