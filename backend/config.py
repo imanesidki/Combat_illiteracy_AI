@@ -9,7 +9,7 @@ class Settings:
     """Application settings and configuration"""
     
     # API Keys
-    GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "AIzaSyA7D7pe7cnKK1o-195FKE_GCuW65ckrafs")
+    GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY")
     
     # Server Configuration
     HOST: str = os.getenv("HOST", "0.0.0.0")

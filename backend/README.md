@@ -74,10 +74,15 @@ A FastAPI-based backend service for Arabic text verification and audio transcrip
    **On Windows**:
    Download from [FFmpeg official website](https://ffmpeg.org/download.html)
 
-5. **Configure environment variables** (optional):
-   Create a `.env` file in the backend directory:
+5. **Configure environment variables**:
+   Copy the sample environment file and add your API keys:
+   ```bash
+   cp .env.example .env
+   ```
+   
+   Then edit `.env` and replace `your_google_gemini_api_key_here` with your actual Google Gemini API key:
    ```env
-   GOOGLE_API_KEY=your_google_api_key_here
+   GOOGLE_API_KEY=your_actual_google_gemini_api_key_here
    HOST=0.0.0.0
    PORT=8000
    DEBUG=True
