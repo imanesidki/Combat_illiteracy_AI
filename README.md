@@ -176,22 +176,6 @@ MAX_FILE_SIZE=50
    - Create a new API key
    - Add it to your `.env` file
 
-## 📱 Usage
-
-### For Learners
-
-1. **Start Learning**: Visit the homepage and click "تسجيل الدخول"
-2. **Choose Your Level**: Begin with letters, then progress to words and sentences
-3. **Practice Writing**: Upload images of your handwriting for AI verification
-4. **Voice Practice**: Record yourself reading Arabic text
-5. **Chat with AI**: Practice conversations in Moroccan Darija
-
-### For Developers
-
-1. **API Endpoints**: Visit `/docs` for interactive API documentation
-2. **Text Verification**: POST to `/verify-text` with image and text
-3. **Audio Transcription**: POST to `/transcribe-audio` with audio file
-4. **Health Check**: GET `/health` for system status
 
 ## 🎨 Design Philosophy
 
