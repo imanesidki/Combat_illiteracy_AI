@@ -13,7 +13,7 @@
 
 ## 📖 About
 
-**اقرأ (Iqra)** is an innovative literacy application designed to help Moroccan adults learn to read and write in Arabic. The app combines modern AI technology with culturally relevant content, using Moroccan Darija (dialect) to make learning accessible and engaging for native speakers.
+It is an innovative literacy application designed to help Moroccan adults learn to read and write in Arabic. The app combines modern AI technology with culturally relevant content, using Moroccan Darija (dialect) to make learning accessible and engaging for native speakers.
 
 ### 🎯 Mission
 To combat illiteracy in Morocco by providing an intuitive, AI-powered learning platform that respects local culture and language preferences.
