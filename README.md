@@ -274,24 +274,12 @@ We welcome contributions to improve literacy education in Morocco!
 - **Accessibility**: Improved accessibility features
 - **Performance**: Optimization improvements
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- **Moroccan Ministry of Education** for literacy program insights
 - **Google AI** for Gemini API access
 - **OpenAI** for Whisper speech recognition
 - **Moroccan Cultural Heritage** for design inspiration
-
-## 📞 Support
-
-For questions, suggestions, or support:
-- **Issues**: Create a GitHub issue
-- **Email**: [Your contact email]
-- **Documentation**: Check `/docs` endpoint for API details
-
 ---
 
 <div align="center">
